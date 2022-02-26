@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=yes">
+    <title>DIGICODE</title>
+    <link rel="icon" type="image/png" href="45.jpg">
+    <script src="java.js"></script>
+    <link rel="stylesheet" href="style1.css">
+
+</head>
+
+<body>
+    <div class="main front">
+        <h1 id="heading">
+            <a style="color: white;">DIGI</a>
+            <a style="color: peru;">CODE</a> __
+            <a id="blink">|</a>
+        </h1>
+    </div>
+    <hr>
+    <br>
+    <div class="navbar">
+        <a class="kl" style="color:darkblue; " href="/contest.html">HOME</a>
+        <a class="kl" href="/contest1A.html">A</a>
+        <a class="kl" href="contest1B.html">B</a>
+        <a class="kl" href="contest1C.html">C</a>
+        <a class="kl" href="contest1D.html">D</a><a class="kl" href="contest1E.html">E</a>
+
+    </div><br>
+    <hr><br>
+    <br><br>
+    <div class="contest-head">
+        <h2 style="color: brown;"> TEAM_ON_TOP</h2>_
+        <h2>Contest</h2>
+    </div>
+    <hr><br>
+
+    <p class="contest-head">You are welcome</p>
+
+    <br><br>
+
+    <div class="grid-container">
+        <div class="grid-item point">Type</div>
+        <div class="grid-item point">Questions</div>
+        <div class="grid-item point">A</div>
+        <div class="grid-item point"><a href="contest1A.html">Help Out Kevin</a></div>
+        <div class="grid-item point">B</div>
+        <div class="grid-item point"><a href="contest1B.html">Vishal goes to Stationery</a></div>
+        <div class="grid-item point">C</div>
+        <div class="grid-item point"><a href="contest1C.html">Shark Tank India</a></div>
+
+        <div class="grid-item point">D</div>
+        <div class="grid-item point"><a href="contest1D.html">UP Election Poll</a></div>
+
+        <div class="grid-item point">E</div>
+        <div class="grid-item point"><a href="contest1E.html">Ukraine Russia War</a></div>
+    </div>
+    <br>
+    <div id="domo">
+        <h4>Contest is running and will finish in</h4><br>
+        <p id="demo" style="font-size:1.2rem"></p>
+    </div>
+    <br>
+    <hr><br>
+    <div class="contest-head">
+        <h4 style="color: orange;">Meet The</h4>_
+        <h4>TEAM</h4>
+    </div><br>
+    <hr><br>
+    <div class="information">
+        <div class="card information" id="info1" onclick="goto2()">
+            <img src="9.gif" alt="Avatar">
+            <div class="container">
+                <h4><b>Shreyansh Pandey</b></h4>
+                <p>Website Designer</p>
+            </div>
+        </div>
+        <div class="card information" id="info2" style="display:none" onclick="goto3()">
+            <img src="8.gif" alt="Avatar">
+            <div class="container">
+                <h4><b>Navjot Singh</b></h4>
+                <p>Project Leader And PPT designer</p>
+            </div>
+        </div>
+        <div class="card information" id="info3" style="display:none" onclick="goto4()">
+            <img src="4.gif" alt="Avatar">
+            <div class="container">
+                <h4><b>Priyal</b></h4>
+                <p>Question Designer</p>
+            </div>
+        </div>
+        <div class="card information" id="info4" style="display:none" onclick="goto5()">
+            <img src="1.gif" alt="Avatar">
+            <div class="container">
+                <h4><b>Nikhil Yadav</b></h4>
+                <p>Question Designer</p>
+            </div>
+        </div>
+        <div class="card information" id="info5" style="display:none" onclick="goto1()">
+            <img src="3.gif" alt="Avatar">
+            <div class="container">
+                <h4><b>Jujhar Singh</b></h4>
+                <p>Question Designer</p>
+            </div>
+        </div>
+    </div><br><br>
+    <div class="credit">
+        <h4>&#169; belongs to TEAM_ON_TOP</h4>
+        <h5>Project For Hackmol 3.0</h5>Current Time
+        <div id="time"></div>
+    </div>
+    <br><br><br>
+    <script>
+        let a = document.getElementById("info1"),
+            b = document.getElementById("info2");
+        c = document.getElementById("info3"),
+            d = document.getElementById("info4"),
+            e = document.getElementById("info5");
+
+        function goto2() {
+            a.style.display = 'none';
+            b.style.display = 'flex';
+        }
+
+        function goto3() {
+            b.style.display = 'none';
+            c.style.display = 'flex';
+        }
+
+        function goto4() {
+            c.style.display = 'none';
+            d.style.display = 'flex';
+        }
+
+        function goto5() {
+            d.style.display = 'none';
+            e.style.display = 'flex';
+        }
+
+        function goto1() {
+            e.style.display = 'none';
+            a.style.display = 'flex';
+        }
+
+        function goto3() {
+            b.style.display = 'none';
+            c.style.display = 'flex';
+        }
+
+        function goto4() {
+            c.style.display = 'none';
+            d.style.display = 'flex';
+        }
+
+        function goto5() {
+            d.style.display = 'none';
+            e.style.display = 'flex';
+        }
+
+        function goto1() {
+            e.style.display = 'none';
+            a.style.display = 'flex';
+        }
+    </script>
+</body>
+
+</html>

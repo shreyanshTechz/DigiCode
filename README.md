@@ -1,9 +1,19 @@
 # digicode
-#idea - A website to Conduct Coding round contests
+# idea - A website to Conduct Coding round contests
 
 
 
 ![45](https://user-images.githubusercontent.com/85357239/155869114-bf5edccb-dfce-405b-bb98-c3e341918295.jpg)
+# Tech Stack Used :
+* HTML
+* CSS
+* JAVASCRIPT
+
+# TEAM Details : 
+* Team Code:
+* Team name: TEAM_ON_TOP
+* IsFresher: True
+
 
 Show Your Coding Skill on this platform and compete with your peer groups.
 

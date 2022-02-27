@@ -21,7 +21,7 @@ Tech Stack used is
 
 ### About
 
-Show Your Coding Skill on this platform and compete with your peer groups.
+It helps you to show Your Coding Skill on this platform and compete with your peer groups.
 
 Digicode is a platform where regular contests are organised by students of NIT Jalandhar.
 

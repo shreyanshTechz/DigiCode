@@ -17,7 +17,7 @@ Tech Stack used is
 ### Description of Idea
 
 - IDea : Create a Healthy and interesting coding competition
-- Problem : .....?
+- Problem : Many student find coding monotonous and boring . They do not interact or involve in any coding competition . So We create interesting questions to increase their involvement.
 
 ### About
 

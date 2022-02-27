@@ -11,7 +11,7 @@ Digicode is a platform where regular contests are organised by students of NIT J
 
 Every contest consist of 5 question. Student need to submit their code which will be evaluated by students only.
 
-The website is made with the help of HTML,CSS Using neophormism, basic javascript.
+The website is made with the help of HTML,CSS Using neomorphism, basic javascript.
 
 It also has two compilers:
 1. Compiler from stackskill that allow one to embed challenges in website.

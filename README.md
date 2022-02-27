@@ -9,13 +9,13 @@ Show Your Coding Skill on this platform and compete with your peer groups.
 
 Digicode is a platform where regular contests are organised by students of NIT Jalandhar.
 
-Every contest consist of 5 question. Student need to submit their code which will be evaluated by students only.
+Every contest consists of 5 question. Student need to submit their code which will be evaluated by students only.
 
-The website is made with the help of HTML,CSS Using neomorphism, basic javascript.
+The website is made with the help of HTML,CSS Using neomorphism and basic javascript.
 
 It also has two compilers:
-1. Compiler from stackskill that allow one to embed challenges in website.
-2. Sphere engine compiler that save every run at the background which is then used by question framer for evaluation.
+1. Compiler from skillstack that allows one to embed challenges in website.
+2. Sphere engine compiler that saves every run in the background which is then used by question framer for evaluation.
 
 Website is also hosted on this link->https://shreyanshtechz.000webhostapp.com/index.html
 

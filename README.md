@@ -1,5 +1,5 @@
 # digicode
-A website to Conduct Coding round contests
+#idea - A website to Conduct Coding round contests
 
 
 

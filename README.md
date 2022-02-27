@@ -1,19 +1,25 @@
-# digicode
-# idea - A website to Conduct Coding round contests
+# DIGICODE 
+## Idea - Website To conduct Coding Round Contest
 
+Tech Stack used is 
+- Javascript
+- HTML
+- CSS
+- Compiler : Skillstack , Sphere Engine
 
+---
+ Team details
+- Team Code : asdajsad62562
+- Team Name : TEAM_ON_TOP
+- IsFresher: True
 
-![45](https://user-images.githubusercontent.com/85357239/155869114-bf5edccb-dfce-405b-bb98-c3e341918295.jpg)
-# Tech Stack Used :
-* HTML
-* CSS
-* JAVASCRIPT
+---
+### Description of Idea
 
-# TEAM Details : 
-* Team Code:
-* Team name: TEAM_ON_TOP
-* IsFresher: True
+- IDea : Create a Healthy and intersting coding competition
+- Problem : .....?
 
+### About
 
 Show Your Coding Skill on this platform and compete with your peer groups.
 
@@ -36,3 +42,4 @@ https://user-images.githubusercontent.com/85357239/155869372-24330614-5ff0-4011-
 
 
 Have a happy coding !
+### Loom video link

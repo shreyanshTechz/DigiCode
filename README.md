@@ -15,7 +15,7 @@ The website is made with the help of HTML,CSS Using neomorphism, basic javascrip
 
 It also has two compilers:
 1. Compiler from stackskill that allow one to embed challenges in website.
-2. Shpere engine compiler that save every run at the background which is then used by question framer for evaluation.
+2. Sphere engine compiler that save every run at the background which is then used by question framer for evaluation.
 
 Website is also hosted on this link->https://shreyanshtechz.000webhostapp.com/index.html
 

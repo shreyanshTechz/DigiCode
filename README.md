@@ -5,7 +5,7 @@ A website to Conduct Coding round contests
 
 ![45](https://user-images.githubusercontent.com/85357239/155869114-bf5edccb-dfce-405b-bb98-c3e341918295.jpg)
 
-Show Your Codeing Skill on this platform and competite with your peer groups.
+Show Your Coding Skill on this platform and competite with your peer groups.
 
 Digicode is a platform where regular contest is organised by students of NIT Jalandhar.
 

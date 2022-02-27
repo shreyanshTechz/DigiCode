@@ -9,7 +9,7 @@ Show Your Coding Skill on this platform and compete with your peer groups.
 
 Digicode is a platform where regular contests are organised by students of NIT Jalandhar.
 
-Every contest consists of 5 question. Student need to submit their code which will be evaluated by students only.
+Every contest consists of 5 questions. Students need to submit their code which will be evaluated by TEAM_ON_TOP members only.
 
 The website is made with the help of HTML,CSS Using neomorphism and basic javascript.
 

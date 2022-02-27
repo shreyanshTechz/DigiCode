@@ -16,7 +16,7 @@ Tech Stack used is
 ---
 ### Description of Idea
 
-- IDea : Create a Healthy and intersting coding competition
+- IDea : Create a Healthy and interesting coding competition
 - Problem : .....?
 
 ### About

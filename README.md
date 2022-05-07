@@ -33,7 +33,7 @@ It also has two compilers:
 1. Compiler from skillstack that allows one to embed challenges in website.
 2. Sphere engine compiler that saves every run in the background which is then used by question framer for evaluation.
 
-Website is also hosted on this link->https://shreyanshtechz.000webhostapp.com/index.html
+Website is also hosted on this link->https://shreyanshtechz.github.io/digicode/
 
 Here is the video explanation of how this website works->
 

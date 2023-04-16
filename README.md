@@ -1,5 +1,5 @@
 # DIGICODE 
-## Idea - Website To conduct Coding Round Contest
+## Idea - Website To conduct Coding Round Contest . Created in Hackmol 3.0 conducted by DSC-NITJ . Project was enlisted in finalist in freshers' track.
 
 Tech Stack used is 
 - Javascript
